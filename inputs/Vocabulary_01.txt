@@ -1,0 +1,11 @@
+'good': <cu-g-r>dobr"</cu-g-r> <cu-g-a>dobr"</cu-g-a> <cu-c>dobr"</cu-c> (*psl) | <sr>dobar</sr> (sr) | <ru>dobr (do#''bryj)</ru> (ru)
+'evil': <cu-g-r>z"l"</cu-g-r> <cu-g-a>z"l"</cu-g-a> <cu-c>z"l"</cu-c> (*psl) | <sr>zao</sr> (sr) | <ru>zol (zloj)</ru> (ru)
+'new': <cu-g-r>nov"</cu-g-r> <cu-g-a>nov"</cu-g-a> <cu-c>nov"</cu-c> (*psl) | <sr>nov</sr> (sr) | <ru>nov (no#''vyj)</ru> (ru)
+'old': <cu-g-r>star"</cu-g-r> <cu-g-a>star"</cu-g-a> <cu-c>star"</cu-c> (*psl) | <sr>star</sr> (sr) | <ru>star (sta#''ryj)</ru> (ru)
+'warm': <cu-g-r>topl"</cu-g-r> <cu-g-a>topl"</cu-g-a> <cu-c>topl"</cu-c> (*psl) | <sr>topao</sr> (sr) | <ru>tjopel (tjoplyj)</ru> (ru)
+'cold': <cu-g-r>hol'dn"</cu-g-r> <cu-g-a>hol'dn"</cu-g-a> <cu-c>hol'dn"</cu-c> (*psl) | <sr>hladan</sr> (sr) | <ru>ho#''loden (holo#''dnyj)</ru> (ru)
+'short': <cu-g-r>kort"k"</cu-g-r> <cu-g-a>kort"k"</cu-g-a> <cu-c>kort"k"</cu-c> (*psl) | <sr>kratak</sr> (sr) | <ru>ko#''rotok (koro#''tkij)</ru> (ru)
+'long': <cu-g-r>d'lg"</cu-g-r> <cu-g-a>d'lg"</cu-g-a> <cu-c>d'lg"</cu-c> (*psl) | <sr>dug</sr> (sr) | <ru>do#''log (do#''lgij)</ru> (ru)
+
+
+Source: https://en.wikipedia.org/wiki/Slavic_vocabulary

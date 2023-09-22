@@ -1,0 +1,44 @@
+[1] <cu-l>az"</cu-l>: <cu-g-r>Aa</cu-g-r> <cu-g-a>Aa</cu-g-a> <cu-c>Aa</cu-c> <sr>Aa</sr> <ru>Aa</ru>
+[2] <cu-l>buky</cu-l>: <cu-g-r>Bb</cu-g-r> <cu-g-a>Bb</cu-g-a> <cu-c>Bb</cu-c> <sr>Bb</sr> <ru>Bb</ru>
+[3] <cu-l>v#ed#e</cu-l>: <cu-g-r>Vv</cu-g-r> <cu-g-a>Vv</cu-g-a> <cu-c>Vv</cu-c> <sr>Vv</sr> <ru>Vv</ru>
+[4] <cu-l>glagoljo'</cu-l>: <cu-g-r>Gg</cu-g-r> <cu-g-a>Gg</cu-g-a> <cu-c>Gg</cu-c> <sr>Gg</sr> <ru>Gg</ru>
+[5] <cu-l>dobr#e</cu-l>: <cu-g-r>Dd</cu-g-r> <cu-g-a>Dd</cu-g-a> <cu-c>Dd</cu-c> <sr>Dd</sr> <ru>Dd</ru>
+[6] <cu-l>est"</cu-l>: <cu-g-r>Ee</cu-g-r> <cu-g-a>Ee</cu-g-a> <cu-c>Ee</cu-c> <sr>Ee</sr> <ru>Ee</ru>
+[7] <cu-l>zhiv#eti</cu-l>: <cu-g-r>Žž</cu-g-r> <cu-g-a>Žž</cu-g-a> <cu-c>Žž</cu-c> <sr>Žž</sr> <ru>Žž</ru>
+[8] <cu-l>dz#elo</cu-l>: <cu-g-r>Dzdz</cu-g-r> <cu-g-a>Dzdz</cu-g-a> <cu-c>Dzdz</cu-c>
+[9] <cu-l>zemli</cu-l>: <cu-g-r>Zz</cu-g-r> <cu-g-a>Zz</cu-g-a> <cu-c>Zz</cu-c> <sr>Zz</sr> <ru>Zz</ru>
+[10] <cu-l>i'zhe</cu-l>: <cu-g-r>I'i'</cu-g-r> <cu-g-a>I'i'</cu-g-a> <cu-c>I'i'</cu-c> <ru>#I#i</ru>
+[11] <cu-l>i</cu-l>: <cu-g-r>Ii</cu-g-r> <cu-g-a>Ii</cu-g-a> <cu-c>Ii</cu-c> <sr>Ii</sr> <ru>Ii</ru>
+[12] <cu-l>đerv</cu-l>: <cu-g-r>G'g'</cu-g-r> <cu-g-a>G'g'</cu-g-a> <cu-c>G'g'</cu-c> <sr>Đđ</sr>
+[13] <cu-l>kako</cu-l>: <cu-g-r>Kk</cu-g-r> <cu-g-a>Kk</cu-g-a> <cu-c>Kk</cu-c> <sr>Kk</sr> <ru>Kk</ru>
+[14] <cu-l>lj$udie</cu-l>: <cu-g-r>Ll</cu-g-r> <cu-g-a>Ll</cu-g-a> <cu-c>Ll</cu-c> <sr>Ll</sr> <ru>Ll</ru>
+[15] <cu-l>myslite</cu-l>: <cu-g-r>Mm</cu-g-r> <cu-g-a>Mm</cu-g-a> <cu-c>Mm</cu-c> <sr>Mm</sr> <ru>Mm</ru>
+[16] <cu-l>nash'</cu-l>: <cu-g-r>Nn</cu-g-r> <cu-g-a>Nn</cu-g-a> <cu-c>Nn</cu-c> <sr>Nn</sr> <ru>Nn</ru>
+[17] <cu-l>on"</cu-l>: <cu-g-r>Oo</cu-g-r> <cu-g-a>Oo</cu-g-a> <cu-c>Oo</cu-c> <sr>Oo</sr> <ru>Oo</ru>
+[18] <cu-l>pokoi</cu-l>: <cu-g-r>Pp</cu-g-r> <cu-g-a>Pp</cu-g-a> <cu-c>Pp</cu-c> <sr>Pp</sr> <ru>Pp</ru>
+[19] <cu-l>r"ci</cu-l>: <cu-g-r>Rr</cu-g-r> <cu-g-a>Rr</cu-g-a> <cu-c>Rr</cu-c> <sr>Rr</sr> <ru>Rr</ru>
+[20] <cu-l>slovo</cu-l>: <cu-g-r>Ss</cu-g-r> <cu-g-a>Ss</cu-g-a> <cu-c>Ss</cu-c> <sr>Ss</sr> <ru>Ss</ru>
+[21] <cu-l>tvr"do</cu-l>: <cu-g-r>Tt</cu-g-r> <cu-g-a>Tt</cu-g-a> <cu-c>Tt</cu-c> <sr>Tt</sr> <ru>Tt</ru>
+[22] <cu-l>uk"</cu-l>: <cu-g-r>Uu</cu-g-r> <cu-g-a>Uu</cu-g-a> <cu-c>Uu</cu-c> <sr>Uu</sr> <ru>Uu</ru>
+[23] <cu-l>fr"t"</cu-l>: <cu-g-r>Ff</cu-g-r> <cu-g-a>Ff</cu-g-a> <cu-c>Ff</cu-c> <sr>Ff</sr> <ru>Ff</ru>
+[24] <cu-l>h#er"</cu-l>: <cu-g-r>Hh</cu-g-r> <cu-g-a>Hh</cu-g-a> <cu-c>Hh</cu-c> <sr>Hh</sr> <ru>Hh</ru>
+[25] <cu-l>ot"</cu-l>: <cu-g-r>#O#o</cu-g-r> <cu-g-a>#O#o</cu-g-a> <cu-c>#O#o</cu-c>
+[26] <cu-l>š$ta</cu-l>: <cu-g-r>ŠTšt</cu-g-r> <cu-g-a>ŠTšt</cu-g-a> <cu-c>ŠTšt</cu-c> <ru>ŠĆšć</ru>
+[27] <cu-l>ci</cu-l>: <cu-g-r>Cc</cu-g-r> <cu-g-a>Cc</cu-g-a> <cu-c>Cc</cu-c> <sr>Cc</sr> <ru>Cc</ru>
+[28] <cu-l>čr"v"</cu-l>: <cu-g-r>Čč</cu-g-r> <cu-g-a>Čč</cu-g-a> <cu-c>Čč</cu-c> <sr>Čč</sr> <ru>Čč</ru>
+[29] <cu-l>ša</cu-l>: <cu-g-r>Šš</cu-g-r> <cu-g-a>Šš</cu-g-a> <cu-c>Šš</cu-c> <sr>Šš</sr> <ru>Š$š</ru>
+[30] <cu-l>jor"</cu-l>: <cu-g-r>"""</cu-g-r> <cu-g-a>"""</cu-g-a> <cu-c>"""</cu-c> <ru>"""</ru>
+[31] <cu-l>j$ery</cu-l>: <cu-g-r>''I'$'i'</cu-g-r> <cu-g-a>''I'&'i'</cu-g-a> <cu-c>Yy</cu-c> <ru>Yy</ru>
+[32] <cu-l>j$er"</cu-l>: <cu-g-r>''$'</cu-g-r> <cu-g-a>''$'</cu-g-a> <cu-c>''$'</cu-c> <ru>''$'</ru>
+[33] <cu-l>#et"</cu-l>: <cu-g-r>JAja</cu-g-r> <cu-g-a>Jaja</cu-g-a> <cu-c>#E#e</cu-c> <ru>#E#e</ru>
+[34] <cu-l>j$u</cu-l>: <cu-g-r>JUju</cu-g-r> <cu-g-a>Juju</cu-g-a> <cu-c>Juju</cu-c> <ru>Juju</ru>
+[35] <cu-l>j$a</cu-l>: <cu-c>JAja</cu-c> <ru>JAja</ru>
+[36] <cu-l>j$e</cu-l>: <cu-c>JEje</cu-c>
+[37] <cu-l>e's"</cu-l>: <cu-g-r>E'e'</cu-g-r> <cu-g-a>E'e'</cu-g-a> <cu-c>E'e'</cu-c>
+[38] <cu-l>o's"</cu-l>: <cu-g-r>O'o'</cu-g-r> <cu-g-a>O'o'</cu-g-a> <cu-c>O'o'</cu-c>
+[38] <cu-l>je's"</cu-l>: <cu-g-r>JE'je'</cu-g-r> <cu-g-a>JE'je'</cu-g-a> <cu-c>JE'je'</cu-c>
+[40] <cu-l>jo's"</cu-l>: <cu-g-r>JO'jo'</cu-g-r> <cu-g-a>JO'jo'</cu-g-a> <cu-c>JO'jo'</cu-c>
+[41] <cu-l>thita</cu-l>: <cu-g-r>#F#f</cu-g-r> <cu-g-a>#F#f</cu-g-a> <cu-c>#F#f</cu-c>
+[42] <cu-l>ksi</cu-l>: <cu-c>#KS#ks</cu-c>
+[43] <cu-l>psi</cu-l>: <cu-c>#PS#ps</cu-c>
+[44] <cu-l>ižica</cu-l>: <cu-g-r>#Y#y</cu-g-r> <cu-g-a>#Y#y</cu-g-a> <cu-c>#Y#y</cu-c>

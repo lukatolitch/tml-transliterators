@@ -1,0 +1,8 @@
+<cu-c>a#""#''gg#-l"</cu-c> = <cu-c>a#""#''ggel"</cu-c>
+<cu-c>a#""p#--l"</cu-c>, <cu-c>a#""p#--tol"</cu-c> = <cu-c>a#""po#''stol"</cu-c>
+<cu-c>bg#-"</cu-c> = <cu-c>bo#''g"</cu-c>
+<cu-c>bzh#-tvo#'''</cu-c> = <cu-c>bozhestvo#'''</cu-c>
+<cu-c>bl#-g"</cu-c> = <cu-c>bla#''g"</cu-c>
+<cu-c>bl#-ve#''n"</cu-c> = <cu-c>blagoslove#''n"</cu-c>
+<cu-c>blg#-t"</cu-c> = <cu-c>blagoda#''t"</cu-c>
+

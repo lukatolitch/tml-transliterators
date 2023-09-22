@@ -1,0 +1,6 @@
+<cu-g-a>Pr#ezhde ubo Slov#ene ne im#eho' knig...</cu-g-a>
+<cu-g-r>Pr#ezhde ubo Slov#ene ne im#eho' knig...</cu-g-r>
+<cu-c>Pr#ezhde ub#o Slov#ene ne im#eho' knig...</cu-c>
+<cu-l>Pr#ezhde ub#o Slov#ene ne im#eho' knig...</cu-l>
+<ru>Ibo prezhde slavjane ne imeli knig...</ru>
+<sr>Naime prije Sloveni nisu imali knjige...</sr>

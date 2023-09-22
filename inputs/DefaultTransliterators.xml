@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transliterators>
+  <transliterator id="cu-l" color="#FFDDDDDD" font_family="Noto Serif Regular" description="Proto-Slavonic &amp; Old Church Slavonic, Extended Roman (Latin) Script.&#xD;&#xA;&#xD;&#xA;Sources:&#xD;&#xA;(Bratulić &amp; Damjanović, 2005, pp. 28-29)&#xD;&#xA;(Damjanović &amp; al., 2009, pp. 14-15)&#xD;&#xA;(Bratulić &amp; al., 2009, pp. 150-151)&#xD;&#xA;(Damjanović, 2020, pp. 50-51)&#xD;&#xA;(Trunte, 2021, pp. 16-17)&#xD;&#xA;(Hamm, 1958, pp. 67-68)&#xD;&#xA;(Николић, 1988, сс. 26-27)&#xD;&#xA;(Войлова, 2018, сс. 35-37)&#xD;&#xA;(Буцких, 2020, с. 8)&#xD;&#xA;(Krause &amp; Slocum, 2023)&#xD;&#xA;(Karaman, 2005/1739, pp. 4-7)&#xD;&#xA;&#xD;&#xA;Fonts:&#xD;&#xA;[1] Noto Serif (Regular) by Google: https://fonts.google.com/noto/specimen/Noto+Serif">
+    <map comment="TRANSLITERATION BREAK">
+      <input>$</input>
+      <output></output>
+    </map>
+    <map comment="DOLLAR SIGN">
+      <input>#$</input>
+      <output>$</output>
+    </map>
+    <map comment="NUMBER SIGN">
+      <input>##</input>
+      <output>#</output>
+    </map>
+    <map comment="APOSTROPHE">
+      <input>#'</input>
+      <output>'</output>
+    </map>
+    <map comment="QUOTATION MARK">
+      <input>#"</input>
+      <output>"</output>
+    </map>
+    <map comment="COMBINING ACUTE ACCENT">
+      <input>#''</input>
+      <output>́</output>
+    </map>
+    <map comment="COMBINING DOUBLE MACRON">
+      <input>#-</input>
+      <output>͞</output>
+    </map>
+    <map comment="azu/azъ/азъ/ⰰⰸⱜ">
+      <input>a</input>
+      <output>a</output>
+    </map>
+    <map comment="buky/буки/бѹкъі/бѹкъви/ⰱⱆⰽⰻ">
+      <input>b</input>
+      <output>b</output>
+    </map>
+    <map comment="vede/vêdê/vědě/вѣдъі/вѣдѣ/вѣди/ⰲⱑⰴⰻ">
+      <input>v</input>
+      <output>v</output>
+    </map>
+    <map comment="glagoli/glagoljǫ/глаголѭ/глаголи/глаголь/ⰳⰾⰰⰳⱁⰾⱜ">
+      <input>g</input>
+      <output>g</output>
+    </map>
+    <map comment="dobro/dobrê/добро/добрѣ/ⰴⱁⰱⱃⱁ">
+      <input>d</input>
+      <output>d</output>
+    </map>
+    <map comment="yestu/jestъ/estъ/ѥстъ/естъ/есть/ⰵⱄⱅⱜ">
+      <input>e</input>
+      <output>e</output>
+    </map>
+    <map comment="zhivete/živěte/živêti/живѣте/живѣти/ⰶⰻⰲⱑⱅⰵ">
+      <input>zh,ž</input>
+      <output>ž</output>
+    </map>
+    <map comment="dzelo/ʒêlo/ʒělo/ѕѣло/ѕѣлѡ/ⰷⱑⰾⱁ">
+      <input>dz</input>
+      <output>ӡ</output>
+    </map>
+    <map comment="zemlja/zemli/zeml'i/землꙗ/землѧ/земли/ⰸⰵⰿⰾⱑ">
+      <input>z</input>
+      <output>z</output>
+    </map>
+    <map comment="izhe/ïže/иже/ижеи/ⰻⰶⰵ">
+      <input>#i</input>
+      <output>ï</output>
+    </map>
+    <map comment="initial izhe/иже/ижеи/ⰻⰶⰵ">
+      <input>#i'</input>
+      <output>ı</output>
+    </map>
+    <map comment="i/и/іѡта/ⰻⱁⱅⰰ">
+      <input>i</input>
+      <output>i</output>
+    </map>
+    <map comment="djervi/đerv/đervь/g'ervь/ђервь/г'ервь/ћа/дѥрв">
+      <input>g',đ</input>
+      <output>ĝ,ǵ,ĵ</output>
+    </map>
+    <map comment="j">
+      <input>j</input>
+      <output>j</output>
+    </map>
+    <map comment="kako/како/какѡ/ⰽⰰⰽⱁ">
+      <input>k</input>
+      <output>k</output>
+    </map>
+    <map comment="ljudije/ljudie/l'udьje/людье/людиѥ/людїе/ⰾⱓⰴⰻ">
+      <input>l</input>
+      <output>l</output>
+    </map>
+    <map comment="myslite/мъіслите/мыслите/мыслѣте/ⰿⰻⱄⰾⱑⱅⰵ">
+      <input>m</input>
+      <output>m</output>
+    </map>
+    <map comment="nashi/našь/нашь/нашъ/ⱀⰰⱎⱜ">
+      <input>n</input>
+      <output>n</output>
+    </map>
+    <map comment="onu/onъ/онъ/ⱁⱀⱜ">
+      <input>o</input>
+      <output>o</output>
+    </map>
+    <map comment="pokoji/pokoi/pokojь/покои/покой/ⱂⱁⰽⱁⰻ">
+      <input>p</input>
+      <output>p</output>
+    </map>
+    <map comment="ritsi/rъci/rьci/рьци/рцы/ⱃⱌⰻ">
+      <input>r</input>
+      <output>r</output>
+    </map>
+    <map comment="slovo/слово/ⱄⰾⱁⰲⱁ">
+      <input>s</input>
+      <output>s</output>
+    </map>
+    <map comment="tvrido/tvrъdo/tvrьdo/твръдо/тврьдо/твердѡ/ⱅⰲⰵⱃⰴⱁ">
+      <input>t</input>
+      <output>t</output>
+    </map>
+    <map comment="uku/ukъ/ѹкъ/ⰻⰽⱜ">
+      <input>u</input>
+      <output>u</output>
+    </map>
+    <map comment="fritu/frъtъ/frьtъ/фрътъ/фрьтъ/фрьть/фертъ/ⱇⰵⱃⱅⱜ">
+      <input>f,ph</input>
+      <output>f,ph</output>
+    </map>
+    <map comment="heru/xêrъ/xěrъ/хѣръ/ⱈⱑⱃⱜ">
+      <input>h,kh</input>
+      <output>h,kh</output>
+    </map>
+    <map comment="otu/otъ/ѡтъ/ⱁⱅⱜ">
+      <input>#ot</input>
+      <output>ô</output>
+    </map>
+    <map comment="ѡмега/ⱁⰿⰵⰳⰰ">
+      <input>#o</input>
+      <output>ō</output>
+    </map>
+    <map comment="shta/šta/ща/шта/ⱋⰰ">
+      <input>sht,shch,št,šć,ć</input>
+      <output>ĉ</output>
+    </map>
+    <map comment="tsi/ci/ци/цы/ⱌⰻ">
+      <input>c</input>
+      <output>c</output>
+    </map>
+    <map comment="chrivi/črъvъ/črьvь/чрьвь/червы/ⱍⰵⱃⰲⱜ">
+      <input>ch,č</input>
+      <output>č</output>
+    </map>
+    <map comment="sha/ša/ша/ⱎⰰ">
+      <input>sh,š</input>
+      <output>š</output>
+    </map>
+    <map comment="yeru (back, hard, 'fat' yer)/jerъ/jorъ/ѥръ/ѥръ 'дебело'/еръ/ⰵⱃⱜ">
+      <input>"</input>
+      <output>ъ,ŭ</output>
+    </map>
+    <map comment="shtapic">
+      <input>"'</input>
+      <output>ъ,ŭ</output>
+    </map>
+    <map comment="jery/ѥръі/еры/ⰵⱃⰻ">
+      <input>y</input>
+      <output>y</output>
+    </map>
+    <map comment="yeri (front, soft, 'thin' yer)/jerь/jerъ/ѥрь/ѥрь 'танко'/ерь/ⰵⱃⱜ">
+      <input>'</input>
+      <output>ь,ĭ</output>
+    </map>
+    <map comment="yati/êtъ/jatь/ѣть/ꙗть/jⰰⱅⱜ">
+      <input>#e</input>
+      <output>ê,ě</output>
+    </map>
+    <map comment="yu/ju/ю">
+      <input>ju,yu</input>
+      <output>ю</output>
+    </map>
+    <map comment="ja/ꙗ/jⰰ">
+      <input>ja,ya</input>
+      <output>ꙗ</output>
+    </map>
+    <map comment="je/есть йотированный/jⰵ">
+      <input>je,ye</input>
+      <output>ѥ</output>
+    </map>
+    <map comment="yo">
+      <input>jo,yo</input>
+      <output>jo</output>
+    </map>
+    <map comment="small yus/ęsъ/ѧсъ/юсъ/юс малый/ⱓⱄⱜ">
+      <input>e'</input>
+      <output>ę</output>
+    </map>
+    <map comment="big yus/ǫsъ/ѫсъ/юсъ/юс большой">
+      <input>o'</input>
+      <output>ǫ</output>
+    </map>
+    <map comment="iotated small yus/jęsъ/ѩсъ/юс малый йотированный">
+      <input>je',ye'</input>
+      <output>ję</output>
+    </map>
+    <map comment="iotated big yus/jǫsъ/ѭсъ/юс большой йотированный">
+      <input>jo',yo'</input>
+      <output>jǫ</output>
+    </map>
+    <map comment="fita/thita/ѳита/ⱅⰻⱅⰰ">
+      <input>th</input>
+      <output>th</output>
+    </map>
+    <map comment="ksi/ѯи/ⰽⱄⰻ">
+      <input>ks</input>
+      <output>ks</output>
+    </map>
+    <map comment="psi/ѱи/ⱂⱄⰻ">
+      <input>ps</input>
+      <output>ps</output>
+    </map>
+    <map comment="izhitsa/ižica/ѵжица/ⰻⰶⰻⱌⰰ">
+      <input>#y</input>
+      <output>î,ÿ,ü</output>
+    </map>
+    <map comment="">
+      <input></input>
+      <output></output>
+    </map>
+  </transliterator>
+  <transliterator id="cu-g-r" color="#FFCCAAFF" font_family="Glagolica Unicode Regular" description="Old Church Slavonic, Glagolitic script, Round Form.&#xD;&#xA;&#xD;&#xA;Sources:&#xD;&#xA;https://en.wikipedia.org/wiki/Glagolitic_script&#xD;&#xA;(Bratulić &amp; Damjanović, 2005, pp. 28-29)&#xD;&#xA;(Damjanović &amp; al., 2009, pp. 14-15)&#xD;&#xA;(Bratulić &amp; al., 2009, pp. 150-151)&#xD;&#xA;(Damjanović, 2020, pp. 50-51)&#xD;&#xA;(Trunte, 2021, pp. 16-17)&#xD;&#xA;(Hamm, 1958, pp. 67-68)&#xD;&#xA;(Николић, 1988, сс. 26-27)&#xD;&#xA;(Войлова, 2018, сс. 35-37)&#xD;&#xA;(Буцких, 2020, с. 8)&#xD;&#xA;(Krause &amp; Slocum, 2023)&#xD;&#xA;(Karaman, 2005/1739, pp. 4-7)&#xD;&#xA;&#xD;&#xA;Fonts:&#xD;&#xA;[1] Glagolica Unicode (Regular):  https://nomail.com.ua/family/Glagolica%20Unicode">
+    <map comment="TRANSLITERATION BREAK">
+      <input>$</input>
+      <output></output>
+    </map>
+    <map comment="DOLLAR SIGN">
+      <input>#$</input>
+      <output>$</output>
+    </map>
+    <map comment="NUMBER SIGN">
+      <input>##</input>
+      <output>#</output>
+    </map>
+    <map comment="APOSTROPHE">
+      <input>#'</input>
+      <output>'</output>
+    </map>
+    <map comment="QUOTATION MARK">
+      <input>#"</input>
+      <output>"</output>
+    </map>
+    <map comment="COMBINING ACUTE ACCENT">
+      <input>#''</input>
+      <output>́</output>
+    </map>
+    <map comment="azu/azъ/азъ/ⰰⰸⱜ">
+      <input>a</input>
+      <output>ⰰ</output>
+    </map>
+    <map comment="buky/буки/бѹкъі/бѹкъви/ⰱⱆⰽⰻ">
+      <input>b</input>
+      <output>ⰱ</output>
+    </map>
+    <map comment="vede/vêdê/vědě/вѣдъі/вѣдѣ/вѣди/ⰲⱑⰴⰻ">
+      <input>v</input>
+      <output>ⰲ</output>
+    </map>
+    <map comment="glagoli/glagoljǫ/глаголѭ/глаголи/глаголь/ⰳⰾⰰⰳⱁⰾⱜ">
+      <input>g</input>
+      <output>ⰳ</output>
+    </map>
+    <map comment="dobro/dobrê/добро/добрѣ/ⰴⱁⰱⱃⱁ">
+      <input>d</input>
+      <output>ⰴ</output>
+    </map>
+    <map comment="yestu/jestъ/estъ/ѥстъ/естъ/есть/ⰵⱄⱅⱜ">
+      <input>e</input>
+      <output>ⰵ</output>
+    </map>
+    <map comment="zhivete/živěte/živêti/живѣте/живѣти/ⰶⰻⰲⱑⱅⰵ">
+      <input>zh,ž</input>
+      <output>ⰶ</output>
+    </map>
+    <map comment="dzelo/ʒêlo/ʒělo/ѕѣло/ѕѣлѡ/ⰷⱑⰾⱁ">
+      <input>dz</input>
+      <output>ⰷ</output>
+    </map>
+    <map comment="zemlja/zemli/zeml'i/землꙗ/землѧ/земли/ⰸⰵⰿⰾⱑ">
+      <input>z</input>
+      <output>ⰸ</output>
+    </map>
+    <map comment="izhe/ïže/иже/ижеи/ⰻⰶⰵ">
+      <input>#i</input>
+      <output>ⰹ</output>
+    </map>
+    <map comment="initial izhe/иже/ижеи/ⰻⰶⰵ">
+      <input>#i'</input>
+      <output>ⰺ</output>
+    </map>
+    <map comment="i/и/іѡта/ⰻⱁⱅⰰ">
+      <input>i</input>
+      <output>ⰻ</output>
+    </map>
+    <map comment="djervi/đerv/đervь/g'ervь/ђервь/г'ервь/ћа/дѥрв">
+      <input>g',đ</input>
+      <output>ⰼ</output>
+    </map>
+    <map comment="j">
+      <input>j</input>
+      <output>ⰼ</output>
+    </map>
+    <map comment="kako/како/какѡ/ⰽⰰⰽⱁ">
+      <input>k</input>
+      <output>ⰽ</output>
+    </map>
+    <map comment="ljudije/ljudie/l'udьje/людье/людиѥ/людїе/ⰾⱓⰴⰻ">
+      <input>l</input>
+      <output>ⰾ</output>
+    </map>
+    <map comment="myslite/мъіслите/мыслите/мыслѣте/ⰿⰻⱄⰾⱑⱅⰵ">
+      <input>m</input>
+      <output>ⰿ</output>
+    </map>
+    <map comment="nashi/našь/нашь/нашъ/ⱀⰰⱎⱜ">
+      <input>n</input>
+      <output>ⱀ</output>
+    </map>
+    <map comment="onu/onъ/онъ/ⱁⱀⱜ">
+      <input>o</input>
+      <output>ⱁ</output>
+    </map>
+    <map comment="pokoji/pokoi/pokojь/покои/покой/ⱂⱁⰽⱁⰻ">
+      <input>p</input>
+      <output>ⱂ</output>
+    </map>
+    <map comment="ritsi/rъci/rьci/рьци/рцы/ⱃⱌⰻ">
+      <input>r</input>
+      <output>ⱃ</output>
+    </map>
+    <map comment="slovo/слово/ⱄⰾⱁⰲⱁ">
+      <input>s</input>
+      <output>ⱄ</output>
+    </map>
+    <map comment="tvrido/tvrъdo/tvrьdo/твръдо/тврьдо/твердѡ/ⱅⰲⰵⱃⰴⱁ">
+      <input>t</input>
+      <output>ⱅ</output>
+    </map>
+    <map comment="uku/ukъ/ѹкъ/ⰻⰽⱜ">
+      <input>u</input>
+      <output>ⱆ</output>
+    </map>
+    <map comment="fritu/frъtъ/frьtъ/фрътъ/фрьтъ/фрьть/фертъ/ⱇⰵⱃⱅⱜ">
+      <input>f,ph</input>
+      <output>ⱇ</output>
+    </map>
+    <map comment="heru/xêrъ/xěrъ/хѣръ/ⱈⱑⱃⱜ">
+      <input>h,kh</input>
+      <output>ⱈ</output>
+    </map>
+    <map comment="otu/otъ/ѡтъ/ѡмега/ⱁⱅⱜ/ⱁⰿⰵⰳⰰ">
+      <input>#o,ot</input>
+      <output>ⱉ</output>
+    </map>
+    <map comment="shta/šta/ща/шта/ⱋⰰ">
+      <input>sht,shch,št,šć,ć</input>
+      <output>ⱋ</output>
+    </map>
+    <map comment="tsi/ci/ци/цы/ⱌⰻ">
+      <input>c</input>
+      <output>ⱌ</output>
+    </map>
+    <map comment="chrivi/črъvъ/črьvь/чрьвь/червы/ⱍⰵⱃⰲⱜ">
+      <input>ch,č</input>
+      <output>ⱍ</output>
+    </map>
+    <map comment="sha/ša/ша/ⱎⰰ">
+      <input>sh,š</input>
+      <output>ⱎ</output>
+    </map>
+    <map comment="yeru (back, hard, 'fat' yer)/jerъ/jorъ/ѥръ/ѥръ 'дебело'/еръ/ⰵⱃⱜ">
+      <input>"</input>
+      <output>ⱏ</output>
+    </map>
+    <map comment="shtapic">
+      <input>"'</input>
+      <output>ⱜ</output>
+    </map>
+    <map comment="jery/ѥръі/еры/ⰵⱃⰻ">
+      <input>y</input>
+      <output>ⱏⰻ,ⱏⰺ,ⱏⰹ,ⱐⰺ,ⱐⰹ</output>
+    </map>
+    <map comment="yeri (front, soft, 'thin' yer)/jerь/jerъ/ѥрь/ѥрь 'танко'/ерь/ⰵⱃⱜ">
+      <input>'</input>
+      <output>ⱐ</output>
+    </map>
+    <map comment="yati/êtъ/jatь/ѣть/ꙗть/jⰰⱅⱜ">
+      <input>#e</input>
+      <output>ⱑ</output>
+    </map>
+    <map comment="yu/ju/ю">
+      <input>ju,yu</input>
+      <output>ⱓ</output>
+    </map>
+    <map comment="yo">
+      <input>jo,yo</input>
+      <output>ⱖ</output>
+    </map>
+    <map comment="small yus/ęsъ/ѧсъ/юсъ/юс малый/ⱓⱄⱜ">
+      <input>e'</input>
+      <output>ⱔ</output>
+    </map>
+    <map comment="big yus/ǫsъ/ѫсъ/юсъ/юс большой">
+      <input>o'</input>
+      <output>ⱗ</output>
+    </map>
+    <map comment="iotated small yus/jęsъ/ѩсъ/юс малый йотированный">
+      <input>je',ye'</input>
+      <output>ⱘ</output>
+    </map>
+    <map comment="iotated big yus/jǫsъ/ѭсъ/юс большой йотированный">
+      <input>jo',yo'</input>
+      <output>ⱙ</output>
+    </map>
+    <map comment="fita/thita/ѳита/ⱅⰻⱅⰰ">
+      <input>th</input>
+      <output>ⱚ</output>
+    </map>
+    <map comment="izhitsa/ižica/ѵжица/ⰻⰶⰻⱌⰰ">
+      <input>#y</input>
+      <output>ⱛ</output>
+    </map>
+  </transliterator>
+  <transliterator id="cu-g-a" color="#FFDDAADD" font_family="Glagolica Missal DPG Regular" description="Old Church Slavonic, Glagolitic Script, Angular Form.&#xD;&#xA;&#xD;&#xA;Sources:&#xD;&#xA;https://en.wikipedia.org/wiki/Glagolitic_script&#xD;&#xA;(Bratulić &amp; Damjanović, 2005, pp. 28-29)&#xD;&#xA;(Damjanović &amp; al., 2009, pp. 14-15)&#xD;&#xA;(Bratulić &amp; al., 2009, pp. 150-151)&#xD;&#xA;(Damjanović, 2020, pp. 50-51)&#xD;&#xA;(Trunte, 2021, pp. 16-17)&#xD;&#xA;(Hamm, 1958, pp. 67-68)&#xD;&#xA;(Николић, 1988, сс. 26-27)&#xD;&#xA;(Войлова, 2018, сс. 35-37)&#xD;&#xA;(Буцких, 2020, с. 8)&#xD;&#xA;(Krause &amp; Slocum, 2023)&#xD;&#xA;(Karaman, 2005/1739, pp. 4-7)&#xD;&#xA;&#xD;&#xA;Fonts:&#xD;&#xA;[1] &quot;Glagolica Missal DPG&quot; (Regular) by Nenad Hančić-Matejić: https://www.nenad.bplaced.net/doku.php/hr:glagolmissal">
+    <map comment="TRANSLITERATION BREAK">
+      <input>$</input>
+      <output></output>
+    </map>
+    <map comment="DOLLAR SIGN">
+      <input>#$</input>
+      <output>$</output>
+    </map>
+    <map comment="NUMBER SIGN">
+      <input>##</input>
+      <output>#</output>
+    </map>
+    <map comment="APOSTROPHE">
+      <input>#'</input>
+      <output>'</output>
+    </map>
+    <map comment="QUOTATION MARK">
+      <input>#"</input>
+      <output>"</output>
+    </map>
+    <map comment="COMBINING ACUTE ACCENT">
+      <input>#''</input>
+      <output>́</output>
+    </map>
+    <map comment="azu/azъ/азъ/ⰰⰸⱜ">
+      <input>a</input>
+      <output>ⰰ</output>
+    </map>
+    <map comment="buky/буки/бѹкъі/бѹкъви/ⰱⱆⰽⰻ">
+      <input>b</input>
+      <output>ⰱ</output>
+    </map>
+    <map comment="vede/vêdê/vědě/вѣдъі/вѣдѣ/вѣди/ⰲⱑⰴⰻ">
+      <input>v</input>
+      <output>ⰲ</output>
+    </map>
+    <map comment="glagoli/glagoljǫ/глаголѭ/глаголи/глаголь/ⰳⰾⰰⰳⱁⰾⱜ">
+      <input>g</input>
+      <output>ⰳ</output>
+    </map>
+    <map comment="dobro/dobrê/добро/добрѣ/ⰴⱁⰱⱃⱁ">
+      <input>d</input>
+      <output>ⰴ</output>
+    </map>
+    <map comment="yestu/jestъ/estъ/ѥстъ/естъ/есть/ⰵⱄⱅⱜ">
+      <input>e</input>
+      <output>ⰵ</output>
+    </map>
+    <map comment="zhivete/živěte/živêti/живѣте/живѣти/ⰶⰻⰲⱑⱅⰵ">
+      <input>zh,ž</input>
+      <output>ⰶ</output>
+    </map>
+    <map comment="dzelo/ʒêlo/ʒělo/ѕѣло/ѕѣлѡ/ⰷⱑⰾⱁ">
+      <input>dz</input>
+      <output>ⰷ</output>
+    </map>
+    <map comment="zemlja/zemli/zeml'i/землꙗ/землѧ/земли/ⰸⰵⰿⰾⱑ">
+      <input>z</input>
+      <output>ⰸ</output>
+    </map>
+    <map comment="izhe/ïže/иже/ижеи/ⰻⰶⰵ">
+      <input>#i</input>
+      <output>ⰹ</output>
+    </map>
+    <map comment="initial izhe/иже/ижеи/ⰻⰶⰵ">
+      <input>#i'</input>
+      <output>ⰺ</output>
+    </map>
+    <map comment="i/и/іѡта/ⰻⱁⱅⰰ">
+      <input>i</input>
+      <output>ⰻ</output>
+    </map>
+    <map comment="djervi/đerv/đervь/g'ervь/ђервь/г'ервь/ћа/дѥрв">
+      <input>g',đ</input>
+      <output>ⰼ</output>
+    </map>
+    <map comment="j">
+      <input>j</input>
+      <output>j</output>
+    </map>
+    <map comment="kako/како/какѡ/ⰽⰰⰽⱁ">
+      <input>k</input>
+      <output>ⰽ</output>
+    </map>
+    <map comment="ljudije/ljudie/l'udьje/людье/людиѥ/людїе/ⰾⱓⰴⰻ">
+      <input>l</input>
+      <output>ⰾ</output>
+    </map>
+    <map comment="myslite/мъіслите/мыслите/мыслѣте/ⰿⰻⱄⰾⱑⱅⰵ">
+      <input>m</input>
+      <output>ⰿ</output>
+    </map>
+    <map comment="nashi/našь/нашь/нашъ/ⱀⰰⱎⱜ">
+      <input>n</input>
+      <output>ⱀ</output>
+    </map>
+    <map comment="onu/onъ/онъ/ⱁⱀⱜ">
+      <input>o</input>
+      <output>ⱁ</output>
+    </map>
+    <map comment="pokoji/pokoi/pokojь/покои/покой/ⱂⱁⰽⱁⰻ">
+      <input>p</input>
+      <output>ⱂ</output>
+    </map>
+    <map comment="ritsi/rъci/rьci/рьци/рцы/ⱃⱌⰻ">
+      <input>r</input>
+      <output>ⱃ</output>
+    </map>
+    <map comment="slovo/слово/ⱄⰾⱁⰲⱁ">
+      <input>s</input>
+      <output>ⱄ</output>
+    </map>
+    <map comment="tvrido/tvrъdo/tvrьdo/твръдо/тврьдо/твердѡ/ⱅⰲⰵⱃⰴⱁ">
+      <input>t</input>
+      <output>ⱅ</output>
+    </map>
+    <map comment="uku/ukъ/ѹкъ/ⰻⰽⱜ">
+      <input>u</input>
+      <output>ⱆ</output>
+    </map>
+    <map comment="fritu/frъtъ/frьtъ/фрътъ/фрьтъ/фрьть/фертъ/ⱇⰵⱃⱅⱜ">
+      <input>f,ph</input>
+      <output>ⱇ</output>
+    </map>
+    <map comment="heru/xêrъ/xěrъ/хѣръ/ⱈⱑⱃⱜ">
+      <input>h,kh</input>
+      <output>ⱈ</output>
+    </map>
+    <map comment="otu/otъ/ѡтъ/ѡмега/ⱁⱅⱜ/ⱁⰿⰵⰳⰰ">
+      <input>#o,ot</input>
+      <output>ⱉ</output>
+    </map>
+    <map comment="shta/šta/ща/шта/ⱋⰰ">
+      <input>sht,shch,št,šć,ć</input>
+      <output>ⱋ</output>
+    </map>
+    <map comment="tsi/ci/ци/цы/ⱌⰻ">
+      <input>c</input>
+      <output>ⱌ</output>
+    </map>
+    <map comment="chrivi/črъvъ/črьvь/чрьвь/червы/ⱍⰵⱃⰲⱜ">
+      <input>ch,č</input>
+      <output>ⱍ</output>
+    </map>
+    <map comment="sha/ša/ша/ⱎⰰ">
+      <input>sh,š</input>
+      <output>ⱎ</output>
+    </map>
+    <map comment="yeru (back, hard, 'fat' yer)/jerъ/jorъ/ѥръ/ѥръ 'дебело'/еръ/ⰵⱃⱜ">
+      <input>"</input>
+      <output>ⱏ</output>
+    </map>
+    <map comment="shtapic">
+      <input>"'</input>
+      <output>ⱜ</output>
+    </map>
+    <map comment="jery/ѥръі/еры/ⰵⱃⰻ">
+      <input>y</input>
+      <output>ⱏⰻ,ⱏⰺ,ⱏⰹ,ⱐⰺ,ⱐⰹ</output>
+    </map>
+    <map comment="yeri (front, soft, 'thin' yer)/jerь/jerъ/ѥрь/ѥрь 'танко'/ерь/ⰵⱃⱜ">
+      <input>'</input>
+      <output>ⱐ</output>
+    </map>
+    <map comment="yati/êtъ/jatь/ѣть/ꙗть/jⰰⱅⱜ">
+      <input>#e</input>
+      <output>ⱑ</output>
+    </map>
+    <map comment="yu/ju/ю">
+      <input>ju,yu</input>
+      <output>ⱓ</output>
+    </map>
+    <map comment="yo">
+      <input>jo,yo</input>
+      <output>ⱖ</output>
+    </map>
+    <map comment="small yus/ęsъ/ѧсъ/юсъ/юс малый/ⱓⱄⱜ">
+      <input>e'</input>
+      <output>ⱔ</output>
+    </map>
+    <map comment="big yus/ǫsъ/ѫсъ/юсъ/юс большой">
+      <input>o'</input>
+      <output>ⱗ</output>
+    </map>
+    <map comment="iotated small yus/jęsъ/ѩсъ/юс малый йотированный">
+      <input>je',ye'</input>
+      <output>ⱘ</output>
+    </map>
+    <map comment="iotated big yus/jǫsъ/ѭсъ/юс большой йотированный">
+      <input>jo',yo'</input>
+      <output>ⱙ</output>
+    </map>
+    <map comment="fita/thita/ѳита/ⱅⰻⱅⰰ">
+      <input>th</input>
+      <output>ⱚ</output>
+    </map>
+    <map comment="izhitsa/ižica/ѵжица/ⰻⰶⰻⱌⰰ">
+      <input>#y</input>
+      <output>ⱛ</output>
+    </map>
+  </transliterator>
+  <transliterator id="cu-c" color="#ffddbc57" font_family="Pochaevsk Unicode Normal" description="Old Church Slavonic, Cyrillic script.&#xD;&#xA;&#xD;&#xA;Sources:&#xD;&#xA;https://en.wikipedia.org/wiki/Early_Cyrillic_alphabet&#xD;&#xA;(Bratulić &amp; Damjanović, 2005, pp. 28-29)&#xD;&#xA;(Damjanović &amp; al., 2009, pp. 14-15)&#xD;&#xA;(Bratulić &amp; al., 2009, pp. 150-151)&#xD;&#xA;(Damjanović, 2020, pp. 50-51)&#xD;&#xA;(Trunte, 2021, pp. 16-17)&#xD;&#xA;(Hamm, 1958, pp. 67-68)&#xD;&#xA;(Николић, 1988, сс. 26-27)&#xD;&#xA;(Войлова, 2018, сс. 35-37)&#xD;&#xA;(Буцких, 2020, с. 8)&#xD;&#xA;(Krause &amp; Slocum, 2023)&#xD;&#xA;(Karaman, 2005/1739, pp. 4-7)&#xD;&#xA;&#xD;&#xA;Fonts:&#xD;&#xA;[1] Pochaevsk Unicode (Normal) by Vladislav V. Dorosh: https://www.azfonts.net/fonts/pochaevsk-caps/regular-310476&#xD;&#xA;">
+    <map comment="TRANSLITERATION BREAK">
+      <input>$</input>
+      <output></output>
+    </map>
+    <map comment="DOLLAR SIGN">
+      <input>#$</input>
+      <output>$</output>
+    </map>
+    <map comment="NUMBER SIGN">
+      <input>##</input>
+      <output>#</output>
+    </map>
+    <map comment="APOSTROPHE">
+      <input>#'</input>
+      <output>'</output>
+    </map>
+    <map comment="QUOTATION MARK">
+      <input>#"</input>
+      <output>"</output>
+    </map>
+    <map comment="COMBINING ACUTE ACCENT">
+      <input>#''</input>
+      <output>́</output>
+    </map>
+    <map comment="COMBINING GRAVE ACCENT">
+      <input>#'''</input>
+      <output>̀</output>
+    </map>
+    <map comment="COMBINING CYRILLIC PSILI PNEUMATA">
+      <input>#""</input>
+      <output>҆</output>
+    </map>
+    <map comment="COMBINING CYRILLIC DASIA PNEUMATA">
+      <input>#"""</input>
+      <output>҅</output>
+    </map>
+    <map comment="COMBINING CYRILLIC TITLO">
+      <input>#-</input>
+      <output>҃</output>
+    </map>
+    <map comment="COMBINING CYRILLIC POKRYTIE">
+      <input>#--</input>
+      <output>҇</output>
+    </map>
+    <map comment="azu/azъ/азъ/ⰰⰸⱜ">
+      <input>a</input>
+      <output>а</output>
+    </map>
+    <map comment="buky/буки/бѹкъі/бѹкъви/ⰱⱆⰽⰻ">
+      <input>b</input>
+      <output>б</output>
+    </map>
+    <map comment="vede/vêdê/vědě/вѣдъі/вѣдѣ/вѣди/ⰲⱑⰴⰻ">
+      <input>v</input>
+      <output>в</output>
+    </map>
+    <map comment="glagoli/glagoljǫ/глаголѭ/глаголи/глаголь/ⰳⰾⰰⰳⱁⰾⱜ">
+      <input>g</input>
+      <output>г</output>
+    </map>
+    <map comment="dobro/dobrê/добро/добрѣ/ⰴⱁⰱⱃⱁ">
+      <input>d</input>
+      <output>д</output>
+    </map>
+    <map comment="yestu/jestъ/estъ/ѥстъ/естъ/есть/ⰵⱄⱅⱜ">
+      <input>e</input>
+      <output>е</output>
+    </map>
+    <map comment="zhivete/živěte/živêti/живѣте/живѣти/ⰶⰻⰲⱑⱅⰵ">
+      <input>zh,ž</input>
+      <output>ж</output>
+    </map>
+    <map comment="dzelo/ʒêlo/ʒělo/ѕѣло/ѕѣлѡ/ⰷⱑⰾⱁ">
+      <input>dz</input>
+      <output>ѕ</output>
+    </map>
+    <map comment="zemlja/zemli/zeml'i/землꙗ/землѧ/земли/ⰸⰵⰿⰾⱑ">
+      <input>z</input>
+      <output>з</output>
+    </map>
+    <map comment="izhe/ïže/иже/ижеи/ⰻⰶⰵ">
+      <input>#i</input>
+      <output>і,ї</output>
+    </map>
+    <map comment="initial izhe/иже/ижеи/ⰻⰶⰵ">
+      <input>#i'</input>
+      <output>і,ї</output>
+    </map>
+    <map comment="i/и/іѡта/ⰻⱁⱅⰰ">
+      <input>i</input>
+      <output>и</output>
+    </map>
+    <map comment="djervi/đerv/đervь/g'ervь/ђервь/г'ервь/ћа/дѥрв">
+      <input>g',đ</input>
+      <output>ђ,ꙉ</output>
+    </map>
+    <map comment="j">
+      <input>j</input>
+      <output>й</output>
+    </map>
+    <map comment="kako/како/какѡ/ⰽⰰⰽⱁ">
+      <input>k</input>
+      <output>к</output>
+    </map>
+    <map comment="ljudije/ljudie/l'udьje/людье/людиѥ/людїе/ⰾⱓⰴⰻ">
+      <input>l</input>
+      <output>л</output>
+    </map>
+    <map comment="myslite/мъіслите/мыслите/мыслѣте/ⰿⰻⱄⰾⱑⱅⰵ">
+      <input>m</input>
+      <output>м</output>
+    </map>
+    <map comment="nashi/našь/нашь/нашъ/ⱀⰰⱎⱜ">
+      <input>n</input>
+      <output>н</output>
+    </map>
+    <map comment="onu/onъ/онъ/ⱁⱀⱜ">
+      <input>o</input>
+      <output>о,ѻ</output>
+    </map>
+    <map comment="pokoji/pokoi/pokojь/покои/покой/ⱂⱁⰽⱁⰻ">
+      <input>p</input>
+      <output>п</output>
+    </map>
+    <map comment="ritsi/rъci/rьci/рьци/рцы/ⱃⱌⰻ">
+      <input>r</input>
+      <output>р</output>
+    </map>
+    <map comment="slovo/слово/ⱄⰾⱁⰲⱁ">
+      <input>s</input>
+      <output>с</output>
+    </map>
+    <map comment="tvrido/tvrъdo/tvrьdo/твръдо/тврьдо/твердѡ/ⱅⰲⰵⱃⰴⱁ">
+      <input>t</input>
+      <output>т</output>
+    </map>
+    <map comment="uku/ukъ/ѹкъ/ⰻⰽⱜ">
+      <input>u</input>
+      <output>у</output>
+    </map>
+    <map comment="uku/ukъ/ѹкъ/ⰻⰽⱜ">
+      <input>#u</input>
+      <output>ѹ</output>
+    </map>
+    <map comment="fritu/frъtъ/frьtъ/фрътъ/фрьтъ/фрьть/фертъ/ⱇⰵⱃⱅⱜ">
+      <input>f,ph</input>
+      <output>ф</output>
+    </map>
+    <map comment="heru/xêrъ/xěrъ/хѣръ/ⱈⱑⱃⱜ">
+      <input>h,kh</input>
+      <output>х</output>
+    </map>
+    <map comment="otu/otъ/ѡтъ/ⱁⱅⱜ">
+      <input>#ot</input>
+      <output>ѿ</output>
+    </map>
+    <map comment="ѡмега/ⱁⰿⰵⰳⰰ">
+      <input>#o</input>
+      <output>ѡ</output>
+    </map>
+    <map comment="shta/šta/ща/шта/ⱋⰰ">
+      <input>sht,shch,št,šć,ć</input>
+      <output>щ</output>
+    </map>
+    <map comment="tsi/ci/ци/цы/ⱌⰻ">
+      <input>c</input>
+      <output>ц</output>
+    </map>
+    <map comment="chrivi/črъvъ/črьvь/чрьвь/червы/ⱍⰵⱃⰲⱜ">
+      <input>ch,č</input>
+      <output>ч</output>
+    </map>
+    <map comment="sha/ša/ша/ⱎⰰ">
+      <input>sh,š</input>
+      <output>ш</output>
+    </map>
+    <map comment="yeru (back, hard, 'fat' yer)/jerъ/jorъ/ѥръ/ѥръ 'дебело'/еръ/ⰵⱃⱜ">
+      <input>"</input>
+      <output>ъ</output>
+    </map>
+    <map comment="shtapic">
+      <input>"'</input>
+      <output>ъ</output>
+    </map>
+    <map comment="jery/ѥръі/еры/ⰵⱃⰻ">
+      <input>y</input>
+      <output>ъи,ъі,ы</output>
+    </map>
+    <map comment="yeri (front, soft, 'thin' yer)/jerь/jerъ/ѥрь/ѥрь 'танко'/ерь/ⰵⱃⱜ">
+      <input>'</input>
+      <output>ь</output>
+    </map>
+    <map comment="yati/êtъ/jatь/ѣть/ꙗть/jⰰⱅⱜ">
+      <input>#e</input>
+      <output>ѣ</output>
+    </map>
+    <map comment="yu/ju/ю">
+      <input>ju,yu</input>
+      <output>ю</output>
+    </map>
+    <map comment="ja/ꙗ/jⰰ">
+      <input>ja,ya</input>
+      <output>ꙗ</output>
+    </map>
+    <map comment="je/есть йотированный/jⰵ">
+      <input>je,ye</input>
+      <output>ѥ</output>
+    </map>
+    <map comment="yo">
+      <input>jo,yo</input>
+      <output>ё</output>
+    </map>
+    <map comment="small yus/ęsъ/ѧсъ/юсъ/юс малый/ⱓⱄⱜ">
+      <input>e'</input>
+      <output>ѧ</output>
+    </map>
+    <map comment="big yus/ǫsъ/ѫсъ/юсъ/юс большой">
+      <input>o'</input>
+      <output>ѫ</output>
+    </map>
+    <map comment="iotated small yus/jęsъ/ѩсъ/юс малый йотированный">
+      <input>je',ye'</input>
+      <output>ѩ</output>
+    </map>
+    <map comment="iotated big yus/jǫsъ/ѭсъ/юс большой йотированный">
+      <input>jo',yo'</input>
+      <output>ѭ</output>
+    </map>
+    <map comment="fita/thita/ѳита/ⱅⰻⱅⰰ">
+      <input>th</input>
+      <output>ѳ</output>
+    </map>
+    <map comment="ksi/ѯи/ⰽⱄⰻ">
+      <input>ks</input>
+      <output>ѯ</output>
+    </map>
+    <map comment="psi/ѱи/ⱂⱄⰻ">
+      <input>ps</input>
+      <output>ѱ</output>
+    </map>
+    <map comment="izhitsa/ižica/ѵжица/ⰻⰶⰻⱌⰰ">
+      <input>#y</input>
+      <output>ѵ</output>
+    </map>
+    <map comment="">
+      <input></input>
+      <output></output>
+    </map>
+    <map comment="">
+      <input></input>
+      <output></output>
+    </map>
+  </transliterator>
+  <transliterator id="ru" color="#FFBBCCFF" font_family="Gentium Book Plus Italic" description="Russian, Cyrillic Script.&#xD;&#xA;&#xD;&#xA;Sources:&#xD;&#xA;https://en.wikipedia.org/wiki/Russian_alphabet&#xD;&#xA;&#xD;&#xA;Fonts:&#xD;&#xA;[1] Gentium Book Plus (Italic) by SIL International: https://fonts.google.com/specimen/Gentium+Book+Plus">
+    <map comment="TRANSLITERATION BREAK">
+      <input>$</input>
+      <output></output>
+    </map>
+    <map comment="DOLLAR SIGN">
+      <input>#$</input>
+      <output>$</output>
+    </map>
+    <map comment="NUMBER SIGN">
+      <input>##</input>
+      <output>#</output>
+    </map>
+    <map comment="APOSTROPHE">
+      <input>#'</input>
+      <output>'</output>
+    </map>
+    <map comment="QUOTATION MARK">
+      <input>#"</input>
+      <output>"</output>
+    </map>
+    <map comment="COMBINING ACUTE ACCENT">
+      <input>#''</input>
+      <output>́</output>
+    </map>
+    <map comment="а (азъ)">
+      <input>a</input>
+      <output>а</output>
+    </map>
+    <map comment="бэ (буки)">
+      <input>b</input>
+      <output>б</output>
+    </map>
+    <map comment="вэ (вѣди)">
+      <input>v</input>
+      <output>в</output>
+    </map>
+    <map comment="гэ (глаголь)">
+      <input>g</input>
+      <output>г</output>
+    </map>
+    <map comment="дэ (добро)">
+      <input>d</input>
+      <output>д</output>
+    </map>
+    <map comment="е (есть)">
+      <input>e</input>
+      <output>е</output>
+    </map>
+    <map comment="э (э оборотное)">
+      <input>e'</input>
+      <output>э</output>
+    </map>
+    <map comment="ё">
+      <input>jo</input>
+      <output>ё</output>
+    </map>
+    <map comment="ѣ (ять)">
+      <input>#e</input>
+      <output>ѣ</output>
+    </map>
+    <map comment="жэ (живѣте)">
+      <input>zh,ž</input>
+      <output>ж</output>
+    </map>
+    <map comment="зэ (земля)">
+      <input>z</input>
+      <output>з</output>
+    </map>
+    <map comment="и (иже)">
+      <input>i</input>
+      <output>и</output>
+    </map>
+    <map comment="і (і десятеричное)">
+      <input>#i</input>
+      <output>і</output>
+    </map>
+    <map comment="и краткое (и съ краткой)">
+      <input>j</input>
+      <output>й</output>
+    </map>
+    <map comment="ка (како)">
+      <input>k</input>
+      <output>к</output>
+    </map>
+    <map comment="эль/эл (люди)">
+      <input>l</input>
+      <output>л</output>
+    </map>
+    <map comment="эм (мыслѣте)">
+      <input>m</input>
+      <output>м</output>
+    </map>
+    <map comment="эн (нашъ)">
+      <input>n</input>
+      <output>н</output>
+    </map>
+    <map comment="о (онъ)">
+      <input>o</input>
+      <output>о</output>
+    </map>
+    <map comment="пэ (покой)">
+      <input>p</input>
+      <output>п</output>
+    </map>
+    <map comment="эр (рцы)">
+      <input>r</input>
+      <output>р</output>
+    </map>
+    <map comment="эс (слово)">
+      <input>s</input>
+      <output>с</output>
+    </map>
+    <map comment="тэ (твердо)">
+      <input>t</input>
+      <output>т</output>
+    </map>
+    <map comment="у (укъ)">
+      <input>u</input>
+      <output>у</output>
+    </map>
+    <map comment="эф (фертъ)">
+      <input>f</input>
+      <output>ф</output>
+    </map>
+    <map comment="(ѳита)">
+      <input>#f</input>
+      <output>ѳ</output>
+    </map>
+    <map comment="ха (хѣръ)">
+      <input>h,x</input>
+      <output>х</output>
+    </map>
+    <map comment="цэ (цы)">
+      <input>c</input>
+      <output>ц</output>
+    </map>
+    <map comment="че (червь)">
+      <input>ch,č,ć</input>
+      <output>ч</output>
+    </map>
+    <map comment="ша">
+      <input>sh,š</input>
+      <output>ш</output>
+    </map>
+    <map comment="ща">
+      <input>shch,shsh,shh,šč,šć,šš</input>
+      <output>щ</output>
+    </map>
+    <map comment="твёрдый знак (еръ)">
+      <input>"</input>
+      <output>ъ</output>
+    </map>
+    <map comment="ы (еры)">
+      <input>y</input>
+      <output>ы</output>
+    </map>
+    <map comment="(ижица)">
+      <input>#y</input>
+      <output>ѵ</output>
+    </map>
+    <map comment="мягкий знак (ерь)">
+      <input>'</input>
+      <output>ь</output>
+    </map>
+    <map comment="ю">
+      <input>ju</input>
+      <output>ю</output>
+    </map>
+    <map comment="ja">
+      <input>ja</input>
+      <output>я</output>
+    </map>
+  </transliterator>
+  <transliterator id="sr" color="#FFFFBB99" font_family="Resavska BG Sans Italic" description="Serbian, Cyrillic Script.&#xD;&#xA;&#xD;&#xA;Sources:&#xD;&#xA;[1] https://sr.wikipedia.org/wiki/Српска_ћирилица&#xD;&#xA;[2] https://sr.wikipedia.org/wiki/Срицање_слова_српског_језика&#xD;&#xA;&#xD;&#xA;Fonts:&#xD;&#xA;[1] Resavska BG Sans Italic (Cyrillic script, Serbian) by Olivera Stojadinović: https://www.tipometar.org/aktuelno/akcija!/ResavskaBG/Index.html">
+    <map comment="TRANSLITERATION BREAK">
+      <input>$</input>
+      <output></output>
+    </map>
+    <map comment="DOLLAR SIGN">
+      <input>#$</input>
+      <output>$</output>
+    </map>
+    <map comment="NUMBER SIGN">
+      <input>##</input>
+      <output>#</output>
+    </map>
+    <map comment="дугоузлазни/dugouzlazni">
+      <input>#'</input>
+      <output>́</output>
+    </map>
+    <map comment="краткоузлазни/kratkouzlazni">
+      <input>#''</input>
+      <output>̀</output>
+    </map>
+    <map comment="дугосилазни/dugosilazni">
+      <input>#^</input>
+      <output>̑</output>
+    </map>
+    <map comment="краткосилазни/kratkosilazni">
+      <input>#"</input>
+      <output>̏</output>
+    </map>
+    <map comment="а/a">
+      <input>a</input>
+      <output>а</output>
+    </map>
+    <map comment="бе/be">
+      <input>b</input>
+      <output>б</output>
+    </map>
+    <map comment="ве/ve">
+      <input>v</input>
+      <output>в</output>
+    </map>
+    <map comment="ге/ge">
+      <input>g</input>
+      <output>г</output>
+    </map>
+    <map comment="де/de">
+      <input>d</input>
+      <output>д</output>
+    </map>
+    <map comment="ђе/đe">
+      <input>gj,đ</input>
+      <output>ђ</output>
+    </map>
+    <map comment="е/e">
+      <input>e</input>
+      <output>е</output>
+    </map>
+    <map comment="же/že">
+      <input>zh,ž</input>
+      <output>ж</output>
+    </map>
+    <map comment="зе/ze">
+      <input>z</input>
+      <output>з</output>
+    </map>
+    <map comment="и/i">
+      <input>i</input>
+      <output>и</output>
+    </map>
+    <map comment="је/je">
+      <input>j</input>
+      <output>ј</output>
+    </map>
+    <map comment="ка/ka">
+      <input>k</input>
+      <output>к</output>
+    </map>
+    <map comment="ел/el">
+      <input>l</input>
+      <output>л</output>
+    </map>
+    <map comment="ље/lje">
+      <input>lj</input>
+      <output>љ</output>
+    </map>
+    <map comment="ем/em">
+      <input>m</input>
+      <output>м</output>
+    </map>
+    <map comment="ен/en">
+      <input>n</input>
+      <output>н</output>
+    </map>
+    <map comment="ње/nje">
+      <input>nj</input>
+      <output>њ</output>
+    </map>
+    <map comment="о/o">
+      <input>o</input>
+      <output>о</output>
+    </map>
+    <map comment="пе/pe">
+      <input>p</input>
+      <output>п</output>
+    </map>
+    <map comment="ер/er">
+      <input>r</input>
+      <output>р</output>
+    </map>
+    <map comment="ес/es">
+      <input>s</input>
+      <output>с</output>
+    </map>
+    <map comment="те/te">
+      <input>t</input>
+      <output>т</output>
+    </map>
+    <map comment="ће/će">
+      <input>tj,ć</input>
+      <output>ћ</output>
+    </map>
+    <map comment="у/u">
+      <input>u</input>
+      <output>у</output>
+    </map>
+    <map comment="еф/ef">
+      <input>f</input>
+      <output>ф</output>
+    </map>
+    <map comment="ха/ha">
+      <input>h</input>
+      <output>х</output>
+    </map>
+    <map comment="це/ce">
+      <input>c</input>
+      <output>ц</output>
+    </map>
+    <map comment="че/če">
+      <input>ch,č</input>
+      <output>ч</output>
+    </map>
+    <map comment="џе/dže">
+      <input>dzh,dž</input>
+      <output>џ</output>
+    </map>
+    <map comment="ша/ša">
+      <input>sh,š</input>
+      <output>ш</output>
+    </map>
+  </transliterator>
+</transliterators>
