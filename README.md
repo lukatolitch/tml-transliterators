@@ -118,6 +118,8 @@ Fonts, used to display the scripts, are not included in the app! They have to be
 
 [5] Serbian Cyrillic script - “[Resavska BG Sans](https://www.tipometar.org/aktuelno/akcija!/ResavskaBG/Index.html)” by Olivera Stojadinović.
 
+[6] Russian Cyrillic script - "[Gentium Book Plus](https://fonts.google.com/specimen/Gentium+Book+Plus)" by SIL International.
+
 # [5] SOURCES
 
 ## [5.1] PROGRAMMING
