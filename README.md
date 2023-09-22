@@ -128,9 +128,9 @@ These are the books I've used to teach myself programming a transducer in C#:
 
 [1] [Albahari, J., Albahari, B. (2017) C# 7.0 in a Nutshell. The Definitive Reference. O’Reilly, Boston, USA.](https://www.amazon.com/C-7-0-Nutshell-Definitive-Reference/dp/1491987650/)
 
-[2] [Cormen, Th. H., Leiserson, Ch. E., Rivest, R. L., Stein, C. (2009) Introduction to Algorithms. Third Edition. The MIT Press, Cambridge, Massachusetts, USA.](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen-ebook/dp/B094WZNKP2/)
+[2] [Cormen, Th. H., Leiserson, Ch. E., Rivest, R. L., Stein, C. (2009) Introduction to Algorithms. Third Edition. The MIT Press, Cambridge, Massachusetts, USA. Pp. 995-1002](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen-ebook/dp/B094WZNKP2/)
 
-[3] [Mihov, S., Schulz, K. U. (2019) Finite-State Technique. Automata, Transducers and Bimachines. Cambridge University Press, Cambridge, UK.](https://www.amazon.com/Finite-State-Techniques-Transducers-Bimachines-Theoretical-ebook/dp/B07TBMFLVN/)
+[3] [Mihov, S., Schulz, K. U. (2019) Finite-State Technique. Automata, Transducers and Bimachines. Cambridge University Press, Cambridge, UK. Pp. 72-137.](https://www.amazon.com/Finite-State-Techniques-Transducers-Bimachines-Theoretical-ebook/dp/B07TBMFLVN/)
 
 ## [5.2] SLAVISTICS
 
