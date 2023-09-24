@@ -101,6 +101,10 @@ The transliteration table can be converted to a graph: there’s functionality i
 
 ![Transliteration Graph](images/TMLTransliterators_Preview_05.png)
 
+Of course, the graph of a more complex set of transliteration rules will itself be more complex. Below is an example of such a graph, generated from the complete _OCS_ Cyrillic transliteration rules. (If someone is interested, there are easy discernible patterns in this graph that reflect the regularities in construction of the inputs in the transliteration rules and also the repeating of these rules in virtue of their normalization in the construction of the transliteration map.)
+
+![Transliteration Graph: More Complex Version](images/TMLTransliterators_Preview_06.png)
+
 # [3] TUTORIAL
 
 To do! I yet have to write the tutorial. If there'll be enough requests, I'll create a video tutorial. For the moment, you can see the _TML_ transliterators in action on [my YouTube channel](https://www.youtube.com/channel/UC3f1I01uUfvizAAtGOI-FYQ).
