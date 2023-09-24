@@ -73,7 +73,7 @@ Of course, the real-life sets of transliteration rules will usually be much more
 
 ### [2.2] Transliterator Construction
 
-Now that the input (the transliteration rules) has been specified, on clicking the ‘Compile’ button the app will automatically generate the _TML_ transliterators that transliterate the corresponding marked input text. The construction of the _TML_ transliterators proceeds in three steps:(1) first, from the each set of input transliteration rules a normalized transliteration map is constructed; (2) then, from these transliteration maps transliteration trees are constructed; and (3) finally, from these transliteration trees transliteration tables are constructed, which do the actual transliteration.
+Now that the input (the transliteration rules) has been specified, on clicking the ‘Compile’ button the app will automatically generate the _TML_ transliterators that transliterate the corresponding marked input text. The construction of the _TML_ transliterators proceeds in three steps:(1) first, from the each set of input transliteration rules a normalized transliteration map is constructed; (2) then, from these transliteration maps transliteration trees are constructed; and (3) finally, from these transliteration trees transliteration tables are constructed, which do the actual transliterations.
 
 ![Transliterator Construction](images/TMLTransliterators_Scheme_01.png)
 
