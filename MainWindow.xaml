@@ -42,7 +42,7 @@
                             <Slider Grid.Column="1" Name="output_slider" ValueChanged="OnOutputSliderValueChanged" Maximum="160" Minimum="8" SmallChange="1" Value="12" VerticalAlignment="Center" />
                             <Label Grid.Column="2" Name="output_slider_value_text_box" Content="..." HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="10"/>
                         </Grid>
-                        <RichTextBox Name="output_text_box" Grid.Row="1" FontSize="20" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalScrollBarVisibility="Visible" IsReadOnly="True" IsUndoEnabled="False"/>
+                        <RichTextBox Name="output_text_box" Grid.Row="1" FontSize="20" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" VerticalScrollBarVisibility="Visible" IsReadOnly="True" IsUndoEnabled="False" AcceptsTab="True"/>
                     </Grid>
                     <GridSplitter Grid.Row="1" Height="5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="DarkGray" BorderBrush="Black"/>
                     <Grid Grid.Row="2">
@@ -60,7 +60,7 @@
                             <Slider Grid.Column="1" Name="input_slider" ValueChanged="OnInputSliderValueChanged" Maximum="160" Minimum="8" SmallChange="1" Value="12" VerticalAlignment="Center" />
                             <Label Grid.Column="2" Name="input_slider_value_text_box" Content="..." HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="10"/>
                         </Grid>
-                        <TextBox Name="input_text_box" TextChanged="OnInputTextBoxChanged" Grid.Row="1" FontSize="20" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="Black" Foreground="White" SelectionTextBrush="Black" SelectionBrush="White" VerticalScrollBarVisibility="Visible" CaretBrush="White" UndoLimit="333" AcceptsReturn="True" AutoWordSelection="True" TextWrapping="Wrap"/>
+                        <TextBox Name="input_text_box" TextChanged="OnInputTextBoxChanged" Grid.Row="1" FontSize="20" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="Black" Foreground="White" SelectionTextBrush="Black" SelectionBrush="White" VerticalScrollBarVisibility="Visible" CaretBrush="White" UndoLimit="333" AcceptsReturn="True" AutoWordSelection="True" TextWrapping="Wrap" AcceptsTab="True"/>
                     </Grid>
                 </Grid>
                 <GridSplitter Grid.Column="1" Width="5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="DarkGray" BorderBrush="Black"/>
