@@ -14,6 +14,10 @@ Few screenshots:
 ![TML Transliterators: A Preview (6)](images/TMLTransliterators_Demo_06.png)
 ![TML Transliterators: A Preview (7)](images/TMLTransliterators_Demo_07.png)
 ![TML Transliterators: A Preview (8)](images/TMLTransliterators_Demo_08.png)
+![TML Transliterators: A Preview (9)](images/TMLTransliterators_Demo_09.png)
+![TML Transliterators: A Preview (10)](images/TMLTransliterators_Demo_10.png)
+![TML Transliterators: A Preview (11)](images/TMLTransliterators_Demo_11.png)
+![TML Transliterators: A Preview (12)](images/TMLTransliterators_Demo_12.png)
 
 I’ve recently started learning the _Old Church Slavonic_ language (_OCS_), the first literary slavic language. This language is traditionally written in two scripts, _Glagolitic_ (round, angular, and cursive) and _Cyrillic_. Linguists (and other specialists) also use special subsets of the _Latin_ script to transliterate the _OCS_ for various study purposes. I therefore needed a simple and practical personal transliterator to transliterate between these three scripts and help me in my learning process. Since I wasn’t able to find a suitable online or desktop solution for this task, I’ve started developing this here Windows desktop application in _C#_ (.Net 6.0), using _WPF_ (_Windows Presentation Foundation_) to build the GUI.
 
