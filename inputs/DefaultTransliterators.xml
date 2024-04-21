@@ -821,7 +821,7 @@
     </map>
     <map comment="jery/ѥръі/еры/ⰵⱃⰻ">
       <input>y</input>
-      <output>ъи,ъі,ы</output>
+      <output>ы,ъи,ъі</output>
     </map>
     <map comment="yeri (front, soft, 'thin' yer)/jerь/jerъ/ѥрь/ѥрь 'танко'/ерь/ⰵⱃⱜ">
       <input>'</input>
