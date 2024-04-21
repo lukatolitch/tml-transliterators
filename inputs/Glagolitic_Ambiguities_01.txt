@@ -1,0 +1,10 @@
+<cu-g-r>t d l</cu-g-r> <cu-g-a>t d l</cu-g-a>
+<cu-g-r>k g h</cu-g-r> <cu-g-a>k g h</cu-g-a>
+<cu-g-r>n p</cu-g-r> <cu-g-a>n p</cu-g-a>
+<cu-g-r>sh sht</cu-g-r> <cu-g-a>sh sht</cu-g-a>
+<cu-g-r>i s</cu-g-r> <cu-g-a>i s</cu-g-a>
+<cu-g-r>o u</cu-g-r> <cu-g-a>o u</cu-g-a>
+<cu-g-r>" '</cu-g-r> <cu-g-a>" '</cu-g-a>
+<cu-g-r>#i #i'</cu-g-r> <cu-g-a>#i #i'</cu-g-a>
+<cu-g-r>#e yu yo</cu-g-r> <cu-g-a>#e yu yo</cu-g-a>
+<cu-g-r>e' je' o' jo'</cu-g-r> <cu-g-a>e' je' o' jo'</cu-g-a>
