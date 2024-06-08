@@ -729,7 +729,7 @@
     </map>
     <map comment="djervi/đerv/đervь/g'ervь/ђервь/г'ервь/ћа/дѥрв">
       <input>g',đ</input>
-      <output>ђ,ꙉ</output>
+      <output>ꙉ,ђ</output>
     </map>
     <map comment="j">
       <input>j</input>
@@ -817,7 +817,7 @@
     </map>
     <map comment="shtapic">
       <input>"'</input>
-      <output>ъ</output>
+      <output>ⱜ</output>
     </map>
     <map comment="jery/ѥръі/еры/ⰵⱃⰻ">
       <input>y</input>
@@ -826,6 +826,10 @@
     <map comment="yeri (front, soft, 'thin' yer)/jerь/jerъ/ѥрь/ѥрь 'танко'/ерь/ⰵⱃⱜ">
       <input>'</input>
       <output>ь</output>
+    </map>
+    <map comment="neutral yer">
+      <input>'"</input>
+      <output>ꙏ</output>
     </map>
     <map comment="yati/êtъ/jatь/ѣть/ꙗть/jⰰⱅⱜ">
       <input>#e</input>
@@ -878,6 +882,10 @@
     <map comment="izhitsa/ižica/ѵжица/ⰻⰶⰻⱌⰰ">
       <input>#y</input>
       <output>ѵ</output>
+    </map>
+    <map comment="koppa/90">
+      <input>#k</input>
+      <output>ҁ</output>
     </map>
     <map comment="">
       <input></input>
