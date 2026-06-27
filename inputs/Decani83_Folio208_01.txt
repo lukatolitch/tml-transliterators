@@ -1,0 +1,29 @@
+<ru-sci>[00]</ru-sci>  <cu-c>bes#eda, nd#-</cu-c>
+
+<ru-sci>[01]</ru-sci>  <cu-c>tvoreshta. mene imashi s'hranjajushta te na v'-</cu-c>
+<ru-sci>[02]</ru-sci>  <cu-c>sako(m) pouti. v'sa nouzh(d)naa udobna teb#e by-</cu-c>
+<ru-sci>[03]</ru-sci>  <cu-c>ti s'd#elovajushta. ta zhe prostirae emu out#e-</cu-c>
+<ru-sci>[04]</ru-sci>  <cu-c>shen#i'e. i v'zvrashtou te r(ech)e v' zemlju s#i'ju. ne boi</cu-c>
+<ru-sci>[05]</ru-sci>  <cu-c>se r(ech)e jako v' tuzh(d)ei stran#e hodishi. ibo v'zvra-</cu-c>
+<ru-sci>[06]</ru-sci>  <cu-c>shtu te paky v' zemlju s#i'ju. i ne #ostavlju tebe do-</cu-c>
+<ru-sci>[07]</ru-sci>  <cu-c>nde zhe s'tvoriti mi v'sa elika gla(golja)h' k teb#e.</cu-c>
+<ru-sci>[08]</ru-sci>  <cu-c>ne prezru teb#e r(ech)e. n' s#i'a v'sa jazhe #ob#etova(h) v'</cu-c>
+<ru-sci>[09]</ru-sci>  <cu-c>d#elo izyti s'tvoru. kako ubo kto podo(s)an#i'ju udi-</cu-c>
+<ru-sci>[10]</ru-sci>  <cu-c>vit se b(o)zh#i'ju ch(e)l(ove)koljub#i'ju. i pr#emnogomu ego s'ni-</cu-c>
+<ru-sci>[11]</ru-sci>  <cu-c>s$hozh(d)en#i'ju. zrnou b#o koliko velich'stvo #ob#eto-</cu-c>
+<ru-sci>[12]</ru-sci>  <cu-c>van#i' i s'tvori k' pravednomu. i kako togo mudro-</cu-c>
+<ru-sci>[13]</ru-sci>  <cu-c>van#i'e v'z(d)vizhe. i v' njegda podivishi se b(o)zh#i'ju</cu-c>
+<ru-sci>[14]</ru-sci>  <cu-c>ch(e)l(ove)koljub#i'ju, pomyslimi i pravednago bl(a)gorazu-</cu-c>
+<ru-sci>[15]</ru-sci>  <cu-c>m#i'e. i jako po toliky(h) #ob#etovani(h), dvad(es)eti l#e(t)</cu-c>
+<ru-sci>[16]</ru-sci>  <cu-c>chislo(m) postra(da)v' #ot lavana nedrehlovashe. ne ne-</cu-c>
+<ru-sci>[17]</ru-sci>  <cu-c>godovashe k' dl'got#e vr#emene. n' v'sa doblje-</cu-c>
+<ru-sci>[18]</ru-sci>  <cu-c>st' v netr'p#eashe #ozhidae #ob#etovanny(h) konc'. i</cu-c>
+<ru-sci>[19]</ru-sci>  <cu-c>v#edy i jako s'b(ud)out se jazhe #ot b(og)a r(ech)ennaa i neiznemo-</cu-c>
+<ru-sci>[20]</ru-sci>  <cu-c>gou(t). i pache zhe v njegda my jazhe #ot sebe v'nositi</cu-c>
+<ru-sci>[21]</ru-sci>  <cu-c>t'shti(m) se v#erou. tr'p#en#i'e. on zhe ne oubyva-</cu-c>
+<ru-sci>[22]</ru-sci>  <cu-c>jushti(h), v' njegda ashte vla(di)ka #ob#etovae(t) jako ouzhe</cu-c>
+<ru-sci>[23]</ru-sci>  <cu-c>v' d#elo i z(d)venu byti nad#eati se. se bo isti-</cu-c>
+<ru-sci>[24]</ru-sci>  <cu-c>nnye v#ery je(st), ezhe ne videshtim se eshte v#erova-</cu-c>
+<ru-sci>[25]</ru-sci>  <cu-c>ti, ashte i s'protivna #ob#etovannym' n#e-</cu-c>
+
+Source: <sr>Opis ćirilskih rukopisnih knjiga manastira Visoki Dečani</sr>(XIII.-XIV.<sr> st.), knjiga treća: paleografski album. Narodna biblioteka Srbije, Beograd, 2012. Str. 267, Deč. 83, Tumačenje Knjige postanja Jovana Zlatoustog, 1440/1450, pisar listova 208-210', blizak (pisaru) Davidu</sr>]
