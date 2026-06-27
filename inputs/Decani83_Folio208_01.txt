@@ -26,4 +26,4 @@
 <ru-sci>[24]</ru-sci>  <cu-c>nnye v#ery je(st), ezhe ne videshtim se eshte v#erova-</cu-c>
 <ru-sci>[25]</ru-sci>  <cu-c>ti, ashte i s'protivna #ob#etovannym' n#e-</cu-c>
 
-Source: <sr>Opis ćirilskih rukopisnih knjiga manastira Visoki Dečani</sr>(XIII.-XIV.<sr> st.), knjiga treća: paleografski album. Narodna biblioteka Srbije, Beograd, 2012. Str. 267, Deč. 83, Tumačenje Knjige postanja Jovana Zlatoustog, 1440/1450, pisar listova 208-210', blizak (pisaru) Davidu</sr>]
+Source: <sr>Opis ćirilskih rukopisnih knjiga manastira Visoki Dečani</sr>(XIII.-XIV.<sr> st.), knjiga treća: paleografski album. Narodna biblioteka Srbije, Beograd, 2012. Str. 267, Deč. 83, Tumačenje Knjige postanja Jovana Zlatoustog, 1440/1450, pisar listova 208-210', blizak (pisaru) Davidu</sr>
